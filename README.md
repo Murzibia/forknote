@@ -24,7 +24,7 @@ https://github.com/forknote/cryptonote-generator/blob/master/configure.sh
 ### Configuration parameters
 Use http://forknote.net/documentation/ For reference and help.
 
-All fields supported:
+Create murzibia.conf using parameters below and place murzibia.conf in folder named "configs" inside of forknote main folder:
 ```
 EMISSION_SPEED_FACTOR=20
 DIFFICULTY_TARGET=30
